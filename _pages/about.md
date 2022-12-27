@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://nerds.itu.dk'>NERDS</a> #PhD Student at <a href=https://nerds.itu.dk>NERDS, IT University CPH</a>
+subtitle: PhD Student at <a href='https://nerds.itu.dk'>NERDS, ITU CPH</a>
 
 
 profile:
