@@ -6,8 +6,8 @@ subtitle: PhD Student at <a href='https://nerds.itu.dk'/>NERDS, IT University CP
 
 profile:
   align: right
-  image: prof_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image: prof_pic2.jpeg
+  image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
