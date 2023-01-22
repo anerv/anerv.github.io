@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://nerds.itu.dk'>NERDS, ITU CPH</a>. Works with spatial data, bicycle networks, transport equity and anything map-related.
+subtitle: PhD Student at <a href='https://nerds.itu.dk'>NERDS, ITU CPH</a>. 
+Works with spatial data, bicycle networks, transport equity and anything map-related.
 
 
 profile:
