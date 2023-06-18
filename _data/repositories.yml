@@ -3,5 +3,6 @@ github_users:
 
 github_repos:
   - anerv/BikeDNA
+  - anerv/BikeDNA_BIG
   - anerv/geospatialdatascience
   - anerv/GDS_exercises
