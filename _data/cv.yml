@@ -79,7 +79,13 @@
     - title: Transport equity
     - title: Critical cartography & spatial data viz
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: IT skills
+  type: list
+  contents:
+    - Python
+    - PostgreSQL/PostGIS
+    - QGIS
+    - PyQGIS
+    - Web mapping (HTML/JS)
+    - git
+    - ArcGIS
