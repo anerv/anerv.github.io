@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I taught the 2023 version of the course in Geospatial Data Science at the IT University of Copenhagen.
+<!-- Add 2022 and 2024 guest lectures here -->
+All lecture materials are published [here](https://github.com/anerv/geospatialdatascience) and course exercises can be found here [here](https://github.com/anerv/GDS_exercises).
 
-Organize your courses by years, topics, or universities, however you like!
+I co-taught the workshop on [Geospatial Data Science](https://www.ic2s2.org/tutorials.html#geospatial) @ IC2S2'23. Teaching materials can be found [here](https://github.com/NERDSITU/gdstutorial).
+
+I have supervised student projects and master theses at the programs in Sustainable Cities at Aalborg University and Data Science at ITU, on subjects such as sustainable mobility planning, accessibility, and other topics from geospatial data science.
