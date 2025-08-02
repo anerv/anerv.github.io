@@ -8,7 +8,9 @@ nav_order: 5
 ---
 
 I taught the 2023 version of the course in Geospatial Data Science at the IT University of Copenhagen.
+
 <!-- Add 2022 and 2024 guest lectures here -->
+
 All lecture materials are published [here](https://github.com/anerv/geospatialdatascience) and course exercises can be found here [here](https://github.com/anerv/GDS_exercises).
 
 I co-taught the workshop on Geospatial Data Science @ IC2S2'23. Teaching materials can be found [here](https://github.com/NERDSITU/gdstutorial).
