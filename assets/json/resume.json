@@ -199,6 +199,14 @@
     {
       "name": "Art",
       "icon": "fa-solid fa-palette"
+    },
+    {
+      "name": "Literature",
+      "icon": "fa-solid fa-book"
+    },
+    {
+      "name": "My dog Preben",
+      "icon": "fa-solid fa-dog"
     }
   ]
 }
