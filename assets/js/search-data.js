@@ -44,7 +44,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{
+        },{id: "post-river-visualization-kennetcook-five-mile-river",
+        
+          title: "River Visualization // Kennetcook - Five Mile River",
+        
+        description: "My take on river visualizations with REMS",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/REM/";
+          
+        },
+      },{id: "post-a-few-submissions-for-the-30daymapchallenge",
+        
+          title: "A few submissions for the 30daymapchallenge",
+        
+        description: "A few submissions for the 30daymapchallenge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/30day22/";
+          
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
