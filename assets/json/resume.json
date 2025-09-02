@@ -69,8 +69,8 @@
       "location": "Lund, Sweden",
       "area": "Geographical Information Science",
       "studyType": "Msc",
-      "startDate": "2022-01-01",
-      "endDate": "2025-03-25"
+      "startDate": "2018",
+      "endDate": "2020"
     },
     {
       "institution": "Roskilde University",
@@ -136,6 +136,42 @@
     },
     {
       "name": "PostSQL/PostGIS",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "QGIS",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "PyQGIS",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Webmapping",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "git",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
