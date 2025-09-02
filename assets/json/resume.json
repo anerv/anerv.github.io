@@ -105,6 +105,13 @@
       "startDate": "2024",
       "endDate": ""
     },
+        {
+      "organization": "Geoforum Perspektiv",
+      "location": "Copenhagen, Denmark",
+      "position": "Editorial Board Member",
+      "startDate": "2023",
+      "endDate": ""
+    },
     {
       "organization": "Roskilde Festival",
       "location": "Roskilde, Denmark",
@@ -115,12 +122,7 @@
     {
       "organization": "Unge GIS Brugere",
       "location": "Copenhagen, Denmark",
-      "startDate": "2019",
-      "endDate": "2021"
-    },
-    {
-      "organization": "Unge GIS Brugere",
-      "location": "Copenhagen, Denmark",
+      "position": "Board member",
       "startDate": "2019",
       "endDate": "2021"
     }
