@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anerv
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - anerv/innotech
+  - anerv/bikedna
+  - anerv/bikedna_big
+  - anerv/bikedna_analysis
+  - anerv/dk_bicycle_network
+  - anerv/dk_network_analysis
+  - anerv/bikeability_equity
+  - anerv/geospatialdatascience
+  - anastassiavybornova/bike-node-planner
+  - anastassiavybornova/bike-node-planner-data-denmark
