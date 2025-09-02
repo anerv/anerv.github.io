@@ -49,8 +49,8 @@
     {
       "institution": "IT University of Copenhagen",
       "location": "Copenhagen, Denmark",
-      "area": "Geospatial data science",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "Geospatial data science, PhD",
       "startDate": "2022-01-01",
       "endDate": "2025-03-25",
       "courses": [
@@ -60,6 +60,7 @@
     {
       "institution": "University of Toronto",
       "location": "Toronto, Canada",
+      "area":"",
       "studyType": "Research Exchange",
       "startDate": "2024-09-01",
       "endDate": "2024-12-31"
@@ -67,32 +68,32 @@
     {
       "institution": "Lund University",
       "location": "Lund, Sweden",
-      "area": "Geographical Information Science",
-      "studyType": "Msc",
+      "area": "",
+      "studyType": "Geographical Information Science, Msc.",
       "startDate": "2018",
       "endDate": "2020"
     },
     {
       "institution": "Roskilde University",
       "location": "Roskilde, Denmark",
-      "area": "Geography & Urban Planning",
-      "studyType": "Msc",
+      "area": "",
+      "studyType": "Geography & Urban Planning, Cand.scient.",
       "startDate": "2017",
       "endDate": "2019"
     },
     {
       "institution": "Lund University",
       "location": "Lund, Sweden",
-      "area": "Geography",
-      "studyType": "Study Exchange",
+      "area": "",
+      "studyType": "Geography, Study Exchange",
       "startDate": "2013",
       "endDate": "2013"
     },
     {
       "institution": "Roskilde University",
       "location": "Roskilde, Denmark",
-      "area": "Geography & Urban Planning",
-      "studyType": "Bsc",
+      "area": "",
+      "studyType": "Geography & Urban Planning, Bsc.",
       "startDate": "2012",
       "endDate": "2016"
     }
