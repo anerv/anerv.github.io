@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <Geospatial data science, GIS, mobility, cartography, etc.
+subtitle: Geospatial data science, GIS, mobility, cartography, etc.
 
 profile:
   align: right
