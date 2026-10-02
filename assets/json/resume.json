@@ -16,11 +16,18 @@
     ]
   },
   "work": [
+      {
+      "name": "Kristeligt Dagblad",
+      "position": "Data Scientist",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": ""
+    },
     {
       "name": "Roskilde University",
       "position": "Postdoctoral Researcher",
       "startDate": "2025",
-      "endDate": "",
+      "endDate": "2025",
       "summary": ""
     },
     {
