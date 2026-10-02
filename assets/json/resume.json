@@ -143,7 +143,7 @@
       "keywords": []
     },
     {
-      "name": "PostSQL/PostGIS",
+      "name": "PostgreSQL/PostGIS",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
@@ -180,6 +180,18 @@
     },
     {
       "name": "Docker",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "APIs",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": []
+    },
+    {
+      "name": "GraphQL",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": []
